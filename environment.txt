@@ -1,0 +1,3 @@
+# Conda package specifications exported from the pkutta environment history.
+# Recreate with: conda create -n pkutta --file environment.txt
+python>=3.12,<3.13

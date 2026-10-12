@@ -1,0 +1,85 @@
+{
+  "type": "knockout",
+  "entrants": [
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张11"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张7"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张1"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张15"
+        ],
+        "team": "Team 2"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张5"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张4"
+        ],
+        "team": "Team 2"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张10"
+        ],
+        "team": "Team 2"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张6"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 1
+    }
+  ]
+}

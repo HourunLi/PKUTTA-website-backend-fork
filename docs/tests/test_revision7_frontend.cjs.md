@@ -1,0 +1,7 @@
+# `tests/test_revision7_frontend.cjs`
+
+Runs the actual shipped application in isolated Node VM contexts with controlled fetch responses, a clock, navigation hashes and minimal DOM adapters. It covers public and admin cold home startup from a null current page, aggregate cache reuse for home/competition/event routes, raw JSON reuse across route aggregates, concurrent request deduplication, snapshot isolation, 60-second expiration, subscriptions to in-flight progressive stage reads, mutation-generation protection against an old GET, immediate cached stage switching, preserved titles during slow loads, preservation of a ready group stage when another stage fails, and navigation races.
+
+Search checks exercise public form submission across singles, pairs, teams, group indexes, knockout participants and the bronze match. They verify trimmed member substring matching, ASCII case folding, WO and double-WO formatting, schedule and referee details, unfinished highlighting, the waiting state, project-level failures, stale-search suppression and closed-dialog protection. Creation checks verify the disabled filename field, checkbox enabled/required state, omission of an unchecked slug, trimmed custom-slug payload, and absence of rename controls while editing. Header checks verify the image logo, removed home link and disabled search outside a competition.
+
+Run with `node tests/test_revision7_frontend.cjs`. All fixtures are in memory; the suite does not modify competition files or execute publishing commands.

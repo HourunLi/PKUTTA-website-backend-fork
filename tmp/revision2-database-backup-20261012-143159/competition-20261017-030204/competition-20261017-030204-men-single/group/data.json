@@ -1,0 +1,489 @@
+{
+  "drawn": true,
+  "groups": [
+    {
+      "id": 1,
+      "size": 4,
+      "qualifiers": 2,
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "张11"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张7"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张16"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张8"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g1-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              9
+            ]
+          ],
+          "table": "3",
+          "time": "14:30"
+        },
+        {
+          "id": "g1-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g1-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g1-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g1-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g1-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 4,
+      "qualifiers": 2,
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "张1"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张15"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张14"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张3"
+          ],
+          "team": "Team 2"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g2-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g2-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g2-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g2-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g2-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g2-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              3
+            ]
+          ],
+          "table": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 4,
+      "qualifiers": 2,
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "张5"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张4"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张13"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张2"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g3-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g3-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g3-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g3-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g3-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g3-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "size": 4,
+      "qualifiers": 2,
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "张10"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张6"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张12"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张9"
+          ],
+          "team": "Team 2"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g4-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g4-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g4-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g4-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g4-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        },
+        {
+          "id": "g4-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null
+        }
+      ]
+    }
+  ]
+}

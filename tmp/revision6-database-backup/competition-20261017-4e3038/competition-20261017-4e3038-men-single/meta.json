@@ -1,0 +1,11 @@
+{
+  "slug": "competition-20261017-4e3038-men-single",
+  "discipline": "men",
+  "format": "single",
+  "name": "男子单打",
+  "schedule": "group-knockout",
+  "stages": [
+    "group",
+    "knockout"
+  ]
+}

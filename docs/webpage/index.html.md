@@ -1,0 +1,3 @@
+# `webpage/index.html`
+
+The canonical HTML shell for the public site and local administration app. It ships with `data-mode="public"` and relative CSS/JavaScript URLs, so the `webpage` directory can run directly on any static HTTP host. The JPEG favicon points to the bundled `./icon.jpg`, copied unchanged from the supplied `vibecoding/Figure/icon.jpg`. The local Python server serves this same file with admin mode, `/assets/` script/style URLs, and the absolute `/icon.jpg` favicon inserted into the HTTP response. No HTML generation or separate frontend source is required. `app.js` renders hash routes inside `#app`; modal and toast roots stay outside the route content.

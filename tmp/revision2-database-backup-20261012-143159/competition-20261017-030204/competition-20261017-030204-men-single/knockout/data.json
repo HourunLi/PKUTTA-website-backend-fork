@@ -1,0 +1,260 @@
+{
+  "drawn": true,
+  "rounds": 3,
+  "slots": [
+    {
+      "kind": "player",
+      "members": [
+        "张15"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张4"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张5"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张6"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张10"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张11"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张1"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张7"
+      ],
+      "team": "Team 1"
+    }
+  ],
+  "matches": [
+    {
+      "id": "r1-m1",
+      "round": 0,
+      "index": 0,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张15"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张4"
+        ],
+        "team": "Team 2"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r1-m2",
+      "round": 0,
+      "index": 1,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张5"
+        ],
+        "team": "Team 3"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张6"
+        ],
+        "team": "Team 3"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r1-m3",
+      "round": 0,
+      "index": 2,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张10"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张11"
+        ],
+        "team": "Team 3"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r1-m4",
+      "round": 0,
+      "index": 3,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张1"
+        ],
+        "team": "Team 1"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张7"
+        ],
+        "team": "Team 1"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r2-m1",
+      "round": 1,
+      "index": 0,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张15"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张5"
+        ],
+        "team": "Team 3"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r2-m2",
+      "round": 1,
+      "index": 1,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张10"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张1"
+        ],
+        "team": "Team 1"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    },
+    {
+      "id": "r3-m1",
+      "round": 2,
+      "index": 0,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张15"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张10"
+        ],
+        "team": "Team 2"
+      },
+      "finished": true,
+      "games": [
+        [
+          11,
+          1
+        ]
+      ],
+      "table": null,
+      "time": null
+    }
+  ]
+}

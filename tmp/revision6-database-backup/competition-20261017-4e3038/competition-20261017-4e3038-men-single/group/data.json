@@ -1,0 +1,663 @@
+{
+  "drawn": true,
+  "groups": [
+    {
+      "id": 1,
+      "size": 3,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "王1"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张12"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张11"
+          ],
+          "team": "Team 3"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g1-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g1-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g1-m-3",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        }
+      ],
+      "scheduled_referee": "",
+      "ranking_draw_order": [
+        2,
+        0,
+        1
+      ],
+      "standings": {
+        "order": [
+          0,
+          1,
+          2
+        ],
+        "rows": [
+          {
+            "index": 0,
+            "rank": 1,
+            "points": 2,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "points": 1,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "points": 0,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "size": 3,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "王2"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张15"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张7"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g2-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g2-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g2-m-3",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        }
+      ],
+      "scheduled_referee": "",
+      "ranking_draw_order": [
+        2,
+        0,
+        1
+      ],
+      "standings": {
+        "order": [
+          0,
+          1,
+          2
+        ],
+        "rows": [
+          {
+            "index": 0,
+            "rank": 1,
+            "points": 2,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "points": 1,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "points": 0,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "size": 3,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "王3"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张9"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张14"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g3-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g3-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g3-m-3",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        }
+      ],
+      "scheduled_referee": "",
+      "ranking_draw_order": [
+        2,
+        0,
+        1
+      ],
+      "standings": {
+        "order": [
+          0,
+          1,
+          2
+        ],
+        "rows": [
+          {
+            "index": 0,
+            "rank": 1,
+            "points": 2,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "points": 1,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "points": 0,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "size": 3,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "王4"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张10"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张13"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g4-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g4-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g4-m-3",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        }
+      ],
+      "scheduled_referee": "",
+      "ranking_draw_order": [
+        2,
+        1,
+        0
+      ],
+      "standings": {
+        "order": [
+          0,
+          1,
+          2
+        ],
+        "rows": [
+          {
+            "index": 0,
+            "rank": 1,
+            "points": 2,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "points": 1,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "points": 0,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "王5"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张6"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张8"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张16"
+          ],
+          "team": "Team 3"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g5-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g5-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g5-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g5-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g5-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        },
+        {
+          "id": "g5-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": true,
+          "games": [
+            [
+              11,
+              1
+            ]
+          ],
+          "table": null,
+          "time": null,
+          "referee": ""
+        }
+      ],
+      "scheduled_referee": "",
+      "ranking_draw_order": [
+        2,
+        3,
+        1,
+        0
+      ],
+      "standings": {
+        "order": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "rows": [
+          {
+            "index": 0,
+            "rank": 1,
+            "points": 3,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 1,
+            "rank": 2,
+            "points": 2,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 2,
+            "rank": 3,
+            "points": 1,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          },
+          {
+            "index": 3,
+            "rank": 4,
+            "points": 0,
+            "tied_points": null,
+            "game_ratio": null,
+            "point_ratio": null,
+            "draw_rank": null
+          }
+        ]
+      }
+    }
+  ]
+}
