@@ -113,10 +113,17 @@ class LiveDatabaseTests(unittest.TestCase):
         self.assertEqual(database.base, public)
         self.assertFalse(legacy.exists())
         self.assertEqual(json.loads((public / "index.json").read_text(encoding="utf-8")), {"competitions": ["autumn-open"]})
-        self.assertEqual(database.get_event("autumn-open", event)["stages"]["round_robin"]["data"], data)
+        shortened = "men-single"
+        self.assertEqual(database.get_competition("autumn-open")["competition"]["events"], [shortened])
+        self.assertEqual(database.get_event("autumn-open", shortened)["event"]["slug"], shortened)
+        self.assertEqual(database.get_event("autumn-open", shortened)["stages"]["round_robin"]["data"], {
+            **data, "standings": None, "ranking_draw_order": None,
+            "scheduled_time": "", "scheduled_table": "", "scheduled_referee": "",
+        })
+        self.assertFalse((public / "autumn-open" / event).exists())
         self.assertEqual([path.relative_to(public).as_posix() for path in public.rglob("index.json")], ["index.json"])
         self.assertFalse(old_document.exists())
-        self.assertTrue((old_document.parent / "round_robin" / "data.json.md").exists())
+        self.assertTrue((old_document.parent.parent / shortened / "round_robin" / "data.json.md").exists())
 
     def test_existing_deployment_is_self_contained_and_reconcile_keeps_scores(self) -> None:
         database = self._database()

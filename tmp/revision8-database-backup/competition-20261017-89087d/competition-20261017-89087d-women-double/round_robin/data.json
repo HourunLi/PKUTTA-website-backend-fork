@@ -1,0 +1,351 @@
+{
+  "count": 8,
+  "participants": [
+    {
+      "kind": "pair",
+      "members": [
+        "王1",
+        "张9"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "王2",
+        "张10"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "王3",
+        "张11"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "王4",
+        "张12"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "王5",
+        "张13"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "张6",
+        "张14"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "张7",
+        "张15"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "张8",
+        "张16"
+      ],
+      "team": "Team 1"
+    }
+  ],
+  "matches": [
+    {
+      "id": "m-1",
+      "a": 0,
+      "b": 1,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-2",
+      "a": 0,
+      "b": 2,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-3",
+      "a": 0,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-4",
+      "a": 0,
+      "b": 4,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-5",
+      "a": 0,
+      "b": 5,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-6",
+      "a": 0,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-7",
+      "a": 0,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-8",
+      "a": 1,
+      "b": 2,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-9",
+      "a": 1,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-10",
+      "a": 1,
+      "b": 4,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-11",
+      "a": 1,
+      "b": 5,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-12",
+      "a": 1,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-13",
+      "a": 1,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-14",
+      "a": 2,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-15",
+      "a": 2,
+      "b": 4,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-16",
+      "a": 2,
+      "b": 5,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-17",
+      "a": 2,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-18",
+      "a": 2,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-19",
+      "a": 3,
+      "b": 4,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-20",
+      "a": 3,
+      "b": 5,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-21",
+      "a": 3,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-22",
+      "a": 3,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-23",
+      "a": 4,
+      "b": 5,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-24",
+      "a": 4,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-25",
+      "a": 4,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-26",
+      "a": 5,
+      "b": 6,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-27",
+      "a": 5,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "m-28",
+      "a": 6,
+      "b": 7,
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    }
+  ]
+}

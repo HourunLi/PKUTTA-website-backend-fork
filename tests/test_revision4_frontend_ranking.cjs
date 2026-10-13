@@ -1,4 +1,4 @@
-// Exercise the ranking function as shipped in the browser bundle.
+// Exercise the retained historical helper; current stage pages use server standings.
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');

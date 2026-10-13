@@ -124,6 +124,8 @@ class AdminHandler(BaseHTTPRequestHandler):
                     and method == "PATCH"
                 ):
                     return DATA.update_group(competition, event, int(parts[6]), self._body())
+                if len(parts) == 7 and parts[5:7] == ["round-robin", "schedule"] and method == "PATCH":
+                    return DATA.update_round_robin_schedule(competition, event, self._body())
                 if len(parts) >= 7 and parts[5] == "stages":
                     stage = parts[6]
                     if len(parts) == 8 and parts[7] == "draw" and method == "POST":

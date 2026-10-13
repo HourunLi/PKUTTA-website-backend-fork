@@ -1,0 +1,11 @@
+{
+  "slug": "women-single",
+  "discipline": "women",
+  "format": "single",
+  "name": "女子单打",
+  "schedule": "group-knockout",
+  "stages": [
+    "group",
+    "knockout"
+  ]
+}

@@ -1,0 +1,407 @@
+{
+  "drawn": false,
+  "rounds": 4,
+  "slots": [
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    }
+  ],
+  "matches": [
+    {
+      "id": "r1-m1",
+      "round": 0,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m2",
+      "round": 0,
+      "index": 1,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m3",
+      "round": 0,
+      "index": 2,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m4",
+      "round": 0,
+      "index": 3,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m5",
+      "round": 0,
+      "index": 4,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m6",
+      "round": 0,
+      "index": 5,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m7",
+      "round": 0,
+      "index": 6,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m8",
+      "round": 0,
+      "index": 7,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m1",
+      "round": 1,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m2",
+      "round": 1,
+      "index": 1,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m3",
+      "round": 1,
+      "index": 2,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m4",
+      "round": 1,
+      "index": 3,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r3-m1",
+      "round": 2,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r3-m2",
+      "round": 2,
+      "index": 1,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r4-m1",
+      "round": 3,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    }
+  ],
+  "bronze_match": {
+    "id": "bronze",
+    "a": {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    "b": {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    "finished": false,
+    "games": [],
+    "table": null,
+    "time": null,
+    "referee": ""
+  },
+  "results": null
+}

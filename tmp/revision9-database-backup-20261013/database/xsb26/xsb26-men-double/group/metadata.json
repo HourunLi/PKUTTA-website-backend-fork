@@ -1,0 +1,335 @@
+{
+  "type": "group",
+  "entrants": [
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张择然",
+          "郭宁宇"
+        ],
+        "team": "工学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "刘梁菏",
+          "姚凯文"
+        ],
+        "team": "工学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "陈奥博",
+          "胡可为"
+        ],
+        "team": "物理学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张素诚",
+          "李厚泽"
+        ],
+        "team": "物理学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "黄思宇",
+          "蒋晓冉"
+        ],
+        "team": "物理学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "李锦洲",
+          "贾景顺"
+        ],
+        "team": "城市与环境学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "朱彦燊",
+          "范力铭"
+        ],
+        "team": "数学科学学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王大禹",
+          "翟睿"
+        ],
+        "team": "计算机学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "肖骥超",
+          "刘卿然"
+        ],
+        "team": "光华管理学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "来敬杰",
+          "郑智仁"
+        ],
+        "team": "外国语学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "高铭",
+          "国嘉祎"
+        ],
+        "team": "法学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张皓程",
+          "王子奥"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "梁绪钊",
+          "贾子傲"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "颜泽鑫",
+          "叶苏恺"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "朱羿衡",
+          "张清扬"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "韩傲宇",
+          "孙嘉琨"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "冯铮",
+          "吴尚远"
+        ],
+        "team": "信息科学技术学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王一石",
+          "林宏伟"
+        ],
+        "team": "元培学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "汪祺",
+          "侯文波"
+        ],
+        "team": "前沿交叉学科研究院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "李文博",
+          "吴晓东"
+        ],
+        "team": "化学与分子工程学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "韩政轩",
+          "万玄同"
+        ],
+        "team": "化学与分子工程学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "严佳豪",
+          "徐一诺"
+        ],
+        "team": "化学与分子工程学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "陈颢源",
+          "肖琪丰"
+        ],
+        "team": "化学与分子工程学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "周成康",
+          "李乐典"
+        ],
+        "team": "化学与分子工程学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "莫南",
+          "周志昊"
+        ],
+        "team": "生命科学学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "席志成",
+          "Daniel Apelbaum"
+        ],
+        "team": "燕京学堂"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "连旺旺",
+          "王进开"
+        ],
+        "team": "软件与微电子学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "任超",
+          "姚文帅"
+        ],
+        "team": "集成电路学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "李云溥",
+          "彭聪"
+        ],
+        "team": "马克思主义学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "田佳伦",
+          "朱恒佑"
+        ],
+        "team": "医学部"
+      },
+      "seed": 0
+    }
+  ]
+}

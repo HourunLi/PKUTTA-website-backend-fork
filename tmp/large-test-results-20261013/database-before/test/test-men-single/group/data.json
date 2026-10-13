@@ -1,0 +1,3833 @@
+{
+  "drawn": true,
+  "groups": [
+    {
+      "id": 1,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "傅文霖"
+          ],
+          "team": "Team 24"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "石正凡"
+          ],
+          "team": "Team 22"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "孔川"
+          ],
+          "team": "Team 27"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "韦予航"
+          ],
+          "team": "Team 32"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g1-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 2,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "梁予峰"
+          ],
+          "team": "Team 8"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "王家睿"
+          ],
+          "team": "Team 25"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "于嘉熙"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "姚弘哲"
+          ],
+          "team": "Team 19"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g2-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 3,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "陈云博"
+          ],
+          "team": "Team 12"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "夏清松"
+          ],
+          "team": "Team 17"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "汤卓辰"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "许梓达"
+          ],
+          "team": "Team 33"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g3-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 4,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "陈文翔"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "韦清涛"
+          ],
+          "team": "Team 11"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "马子然"
+          ],
+          "team": "Team 4"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "黎远晨"
+          ],
+          "team": "Team 30"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g4-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 5,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "孔宏"
+          ],
+          "team": "Team 27"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "石宇辰"
+          ],
+          "team": "Team 14"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "田庭森"
+          ],
+          "team": "Team 16"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "李嘉翔"
+          ],
+          "team": "Team 19"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g5-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 6,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "邱文尧"
+          ],
+          "team": "Team 9"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "叶启平"
+          ],
+          "team": "Team 14"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "石梓衡"
+          ],
+          "team": "Team 32"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蒋亦朗"
+          ],
+          "team": "Team 12"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g6-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 7,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "段尧"
+          ],
+          "team": "Team 7"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "邵梓恒"
+          ],
+          "team": "Team 23"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "许启宏"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "谭凡"
+          ],
+          "team": "Team 23"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g7-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 8,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "史昊尧"
+          ],
+          "team": "Team 15"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "许远航"
+          ],
+          "team": "Team 19"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "任子朗"
+          ],
+          "team": "Team 19"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "贾瑞松"
+          ],
+          "team": "Team 4"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g8-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 9,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "韩书凡"
+          ],
+          "team": "Team 10"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蔡庭川"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郝昕"
+          ],
+          "team": "Team 5"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "余航"
+          ],
+          "team": "Team 34"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g9-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 10,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "肖瑞尧"
+          ],
+          "team": "Team 14"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "袁俊杰"
+          ],
+          "team": "Team 6"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "金霖"
+          ],
+          "team": "Team 20"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "崔景松"
+          ],
+          "team": "Team 17"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g10-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 11,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "杨正熙"
+          ],
+          "team": "Team 34"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "顾景达"
+          ],
+          "team": "Team 26"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郝毅"
+          ],
+          "team": "Team 9"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "闫明恒"
+          ],
+          "team": "Team 5"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g11-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 12,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "胡亦轩"
+          ],
+          "team": "Team 31"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "肖承昕"
+          ],
+          "team": "Team 18"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "马秉超"
+          ],
+          "team": "Team 22"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "徐卓帆"
+          ],
+          "team": "Team 34"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g12-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 13,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "杨弘翔"
+          ],
+          "team": "Team 29"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "闫宏"
+          ],
+          "team": "Team 9"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蔡承哲"
+          ],
+          "team": "Team 31"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蒋正然"
+          ],
+          "team": "Team 14"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g13-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 14,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "尹尧"
+          ],
+          "team": "Team 29"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "范彦凡"
+          ],
+          "team": "Team 12"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "江书昕"
+          ],
+          "team": "Team 21"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "魏远宁"
+          ],
+          "team": "Team 18"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g14-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 15,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "向家诚"
+          ],
+          "team": "Team 5"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "秦言"
+          ],
+          "team": "Team 29"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "宋峰"
+          ],
+          "team": "Team 13"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "邵清然"
+          ],
+          "team": "Team 21"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g15-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 16,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "顾云睿"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "张泽言"
+          ],
+          "team": "Team 8"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "许秉昕"
+          ],
+          "team": "Team 10"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "戴秉诚"
+          ],
+          "team": "Team 16"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g16-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 17,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "段世平"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "胡庭辰"
+          ],
+          "team": "Team 10"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "杜予言"
+          ],
+          "team": "Team 6"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "陈清昕"
+          ],
+          "team": "Team 11"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g17-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 18,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "汤嘉然"
+          ],
+          "team": "Team 6"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "朱修衡"
+          ],
+          "team": "Team 26"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "石嘉衡"
+          ],
+          "team": "Team 20"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "刘凡"
+          ],
+          "team": "Team 20"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g18-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 19,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "孟铭远"
+          ],
+          "team": "Team 11"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "钟彦达"
+          ],
+          "team": "Team 8"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "潘彦晨"
+          ],
+          "team": "Team 4"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "顾云恒"
+          ],
+          "team": "Team 16"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g19-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 20,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "何启凡"
+          ],
+          "team": "Team 28"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "彭平"
+          ],
+          "team": "Team 28"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "覃振朗"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "孟修然"
+          ],
+          "team": "Team 22"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g20-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 21,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "钱霖"
+          ],
+          "team": "Team 2"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "谢志晨"
+          ],
+          "team": "Team 13"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "陆庭松"
+          ],
+          "team": "Team 9"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "朱铭昕"
+          ],
+          "team": "Team 12"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "肖瑞言"
+          ],
+          "team": "Team 28"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g21-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 22,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "周浩毅"
+          ],
+          "team": "Team 23"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "金致楷"
+          ],
+          "team": "Team 3"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "钱云晨"
+          ],
+          "team": "Team 10"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "邹维"
+          ],
+          "team": "Team 7"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "尹书超"
+          ],
+          "team": "Team 15"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g22-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 23,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "夏航"
+          ],
+          "team": "Team 32"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "陶志哲"
+          ],
+          "team": "Team 26"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "范子凯"
+          ],
+          "team": "Team 25"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "廖浩平"
+          ],
+          "team": "Team 13"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "陈家平"
+          ],
+          "team": "Team 1"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g23-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 24,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "朱昊涛"
+          ],
+          "team": "Team 11"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "董俊杰"
+          ],
+          "team": "Team 27"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "侯怀晨"
+          ],
+          "team": "Team 34"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "马书博"
+          ],
+          "team": "Team 17"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "吴远宏"
+          ],
+          "team": "Team 35"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g24-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 25,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "贺清凡"
+          ],
+          "team": "Team 6"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "于景凡"
+          ],
+          "team": "Team 13"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "李秉衡"
+          ],
+          "team": "Team 8"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "侯浩川"
+          ],
+          "team": "Team 30"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "赵清达"
+          ],
+          "team": "Team 18"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g25-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 26,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "龚远哲"
+          ],
+          "team": "Team 7"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "卢承维"
+          ],
+          "team": "Team 21"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郭诚"
+          ],
+          "team": "Team 33"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郭亦凡"
+          ],
+          "team": "Team 16"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郭瑞恒"
+          ],
+          "team": "Team 25"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g26-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 27,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "魏明博"
+          ],
+          "team": "Team 24"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "雷云朗"
+          ],
+          "team": "Team 24"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "郭维"
+          ],
+          "team": "Team 21"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "李致宁"
+          ],
+          "team": "Team 35"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "刘阳"
+          ],
+          "team": "Team 4"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g27-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 28,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "于森"
+          ],
+          "team": "Team 30"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "任航"
+          ],
+          "team": "Team 30"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "向绍成"
+          ],
+          "team": "Team 33"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "闫宇涛"
+          ],
+          "team": "Team 20"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蔡航"
+          ],
+          "team": "Team 35"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g28-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 29,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "熊亦宁"
+          ],
+          "team": "Team 17"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "于家森"
+          ],
+          "team": "Team 22"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "余嘉然"
+          ],
+          "team": "Team 25"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "孟梓毅"
+          ],
+          "team": "Team 32"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "吴修阳"
+          ],
+          "team": "Team 15"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g29-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 30,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "孟云晨"
+          ],
+          "team": "Team 18"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "沈启睿"
+          ],
+          "team": "Team 29"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "黄正维"
+          ],
+          "team": "Team 7"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "邹家宁"
+          ],
+          "team": "Team 26"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "侯凡"
+          ],
+          "team": "Team 31"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g30-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 31,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "夏昊轩"
+          ],
+          "team": "Team 23"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "徐涛"
+          ],
+          "team": "Team 5"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "蔡昊成"
+          ],
+          "team": "Team 15"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "宋翔"
+          ],
+          "team": "Team 31"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "徐明然"
+          ],
+          "team": "Team 28"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g31-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    },
+    {
+      "id": 32,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "",
+      "scheduled_table": "",
+      "scheduled_referee": "",
+      "participants": [
+        {
+          "kind": "player",
+          "members": [
+            "高弘维"
+          ],
+          "team": "Team 33"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "朱明宏"
+          ],
+          "team": "Team 1"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "傅朗"
+          ],
+          "team": "Team 35"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "林怀然"
+          ],
+          "team": "Team 24"
+        },
+        {
+          "kind": "player",
+          "members": [
+            "曾弘宁"
+          ],
+          "team": "Team 27"
+        }
+      ],
+      "matches": [
+        {
+          "id": "g32-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "",
+          "time": "",
+          "referee": ""
+        }
+      ],
+      "ranking_draw_order": null,
+      "standings": null
+    }
+  ]
+}

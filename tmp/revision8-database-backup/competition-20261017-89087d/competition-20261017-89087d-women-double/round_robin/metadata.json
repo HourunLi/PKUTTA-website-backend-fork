@@ -1,0 +1,93 @@
+{
+  "type": "round_robin",
+  "entrants": [
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王1",
+          "张9"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 5
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王2",
+          "张10"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 4
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王3",
+          "张11"
+        ],
+        "team": "Team 2"
+      },
+      "seed": 3
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王4",
+          "张12"
+        ],
+        "team": "Team 2"
+      },
+      "seed": 2
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "王5",
+          "张13"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张6",
+          "张14"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张7",
+          "张15"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "张8",
+          "张16"
+        ],
+        "team": "Team 1"
+      },
+      "seed": 0
+    }
+  ]
+}

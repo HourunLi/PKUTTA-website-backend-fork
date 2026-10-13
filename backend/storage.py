@@ -153,7 +153,7 @@ def _document_json(path: Path) -> None:
         "index.json": "赛事索引，保存赛事英文标识列表。",
         "meta.json": "赛事或项目元数据，记录名称、日期、地点或项目属性。",
         "metadata.json": "阶段元数据，记录阶段类型、选手与种子级别。",
-        "data.json": "阶段数据，记录分组、预定时间、桌号和裁判、对阵、场次信息与比分、小组排名及其固定抽签顺序。",
+        "data.json": "阶段数据，记录分组、预定时间、桌号和裁判、对阵、场次信息与比分、小组与循环赛排名及其固定抽签顺序。",
     }
     content = (f"# `webpage/database/{relative.as_posix()}`\n\n"
                f"{roles.get(path.name, '比赛 JSON 数据。')}\n\n"
@@ -288,6 +288,7 @@ class Database:
         if any(isinstance(item, dict) for item in entries):
             index["competitions"] = [item.get("slug") if isinstance(item, dict) else item for item in entries]
             _atomic_json(self.base / "index.json", index)
+        self._rename_legacy_events(index["competitions"])
         for slug in index["competitions"]:
             competition = self._competition_path(slug)
             meta = _read_json(competition / "meta.json")
@@ -304,9 +305,8 @@ class Database:
                             data = logic.refresh_knockout_bracket(data)
                         except ValueError as exc:
                             raise DataError(f"淘汰赛数据无效：{exc}", 500) from exc
-                    else:
-                        for match in data.get("matches", []):
-                            match.setdefault("referee", "")
+                    elif stage == "round_robin":
+                        self._refresh_round_robin_standings(data)
                     _atomic_json(path, data)
                 if "group" in event_meta["stages"] and "knockout" in event_meta["stages"]:
                     group_path = self._stage_path(slug, event, "group")
@@ -326,9 +326,75 @@ class Database:
                 if not document.resolve().is_relative_to(docs.resolve()):
                     raise DataError("数据文档路径无效", 500)
                 document.unlink()
+        # Renamed events leave empty documentation folders behind after their
+        # obsolete .md files are removed. Remove only empty children of this
+        # documentation root, deepest first.
+        for directory in sorted(docs.rglob("*"), key=lambda item: len(item.parts), reverse=True):
+            if directory.is_symlink() or not directory.is_dir():
+                continue
+            if not directory.resolve().is_relative_to(docs.resolve()):
+                raise DataError("数据文档目录路径无效", 500)
+            if not any(directory.iterdir()):
+                directory.rmdir()
         old_docs = self.root / "docs" / "database"
         if old_docs.exists():
             _remove_tree(old_docs, self.root / "docs")
+
+    def _rename_legacy_events(self, competitions: list[str]) -> None:
+        """Shorten old event slugs, including an interrupted previous rename.
+
+        Check every destination before moving any directory so a conflicting
+        short slug cannot silently replace an existing event.
+        """
+        changes = []
+        for slug in competitions:
+            competition = self._competition_path(slug)
+            meta_path = competition / "meta.json"
+            meta = _read_json(meta_path)
+            events = meta.get("events")
+            if not isinstance(events, list):
+                raise DataError("赛事项目列表格式错误", 500)
+            new_events = []
+            for event in events:
+                event = _slug(event)
+                short = next(
+                    (f"{discipline}-{format_name}"
+                     for discipline in DISCIPLINES for format_name in FORMATS
+                     if event == f"{slug}-{discipline}-{format_name}"),
+                    event,
+                )
+                source = self._event_path(slug, event)
+                target = self._event_path(slug, short)
+                if short != event and source.exists() and target.exists():
+                    raise DataError(f"项目目录冲突：{target}", 500)
+                # Source may already have moved when a prior start stopped
+                # before updating the competition's event list.
+                current = source if source.exists() else target
+                event_meta = _read_json(current / "meta.json")
+                if short != event:
+                    discipline, format_name = short.split("-", 1)
+                    if (event_meta.get("discipline") != discipline or
+                        event_meta.get("format") != format_name or
+                        event_meta.get("slug") not in (event, short)):
+                        raise DataError(f"项目元数据与目录不匹配：{current}", 500)
+                if short in new_events:
+                    raise DataError(f"项目英文文件名重复：{short}", 500)
+                new_events.append(short)
+                if short != event:
+                    changes.append((source, target, current / "meta.json", event_meta))
+            if new_events != events:
+                updated = {**meta, "events": new_events}
+                changes.append((meta_path, updated))
+        for change in changes:
+            if len(change) == 4:
+                source, target, _, event_meta = change
+                if source.exists():
+                    source.rename(target)
+                event_meta["slug"] = target.name
+                _atomic_json(target / "meta.json", event_meta)
+            else:
+                meta_path, updated = change
+                _atomic_json(meta_path, updated)
 
     def _remove_aggregate_index(self, directory: Path) -> None:
         """Discard former snapshots that duplicated the canonical stage data."""
@@ -347,8 +413,6 @@ class Database:
     def _event_path(self, competition: str, event: str) -> Path:
         competition_path = self._competition_path(competition)
         event = _slug(event)
-        if not event.startswith(competition + "-"):
-            raise DataError("项目文件名与赛事不匹配")
         path = competition_path / event
         if path.resolve().parent != competition_path.resolve():
             raise DataError("项目路径无效", 403)
@@ -377,7 +441,7 @@ class Database:
     def get_competition(self, slug: str) -> dict[str, Any]:
         path = self._competition_path(slug)
         meta = _read_json(path / "meta.json")
-        events = [_read_json(path / event / "meta.json") for event in meta["events"]]
+        events = [_read_json(self._event_path(slug, event) / "meta.json") for event in meta["events"]]
         return {"competition": meta, "events": events}
 
     def get_event(self, slug: str, event: str) -> dict[str, Any]:
@@ -489,9 +553,9 @@ class Database:
             rounds = _positive_int(payload.get("knockout_rounds"), "淘汰赛轮数")
             if not (2 ** (rounds - 1) < bracket_count <= 2 ** rounds):
                 raise DataError(f"{rounds} 轮淘汰赛需要超过 {2 ** (rounds - 1)} 且至多 {2 ** rounds} 人")
-        event_slug = f"{competition}-{discipline}-{format_name}"
+        event_slug = f"{discipline}-{format_name}"
         event_path = self._event_path(competition, event_slug)
-        if event_path.exists():
+        if event_path.exists() or event_slug in comp_meta["events"]:
             raise DataError("此赛事已有相同项目", 409)
         event_meta = {
             "slug": event_slug,
@@ -532,8 +596,12 @@ class Database:
             participants = [entrant["participant"] for entrant in entrants]
             stage_files["round_robin"] = (
                 {"type": "round_robin", "entrants": entrants},
-                {"count": len(participants), "participants": participants, "matches": logic.round_robin_matches(participants)},
+                {"count": len(participants), "participants": participants,
+                 "scheduled_time": "", "scheduled_table": "", "scheduled_referee": "",
+                 "matches": logic.round_robin_matches(participants),
+                 "standings": None, "ranking_draw_order": None},
             )
+            self._refresh_round_robin_standings(stage_files["round_robin"][1])
         event_path.mkdir()
         _atomic_json(event_path / "meta.json", event_meta)
         for name, (metadata, data) in stage_files.items():
@@ -642,6 +710,26 @@ class Database:
         _atomic_json(path / "data.json", data)
         return self.get_event(competition, event)
 
+    def update_round_robin_schedule(
+        self, competition: str, event: str, payload: dict[str, Any]
+    ) -> dict[str, Any]:
+        """Save a round-robin plan and apply the supplied fields to its matches."""
+        fields = {"scheduled_time": "time", "scheduled_table": "table", "scheduled_referee": "referee"}
+        if not isinstance(payload, dict) or not payload or set(payload) - fields.keys():
+            raise DataError("仅可设置循环赛预定时间、预定桌号和裁判")
+        values = {}
+        for field, value in payload.items():
+            if not isinstance(value, str):
+                raise DataError("循环赛预定时间、预定桌号和裁判必须是文字")
+            values[field] = value.strip()
+        path, _, data = self._stage(competition, event, "round_robin")
+        for field, value in values.items():
+            data[field] = value
+            for match in data["matches"]:
+                match[fields[field]] = value
+        _atomic_json(path / "data.json", data)
+        return self.get_event(competition, event)
+
     @staticmethod
     def _refresh_group_standings(data: dict[str, Any]) -> None:
         """Persist ranking evidence and a stable order for any required draw."""
@@ -668,6 +756,46 @@ class Database:
                 )
             except ValueError as exc:
                 raise DataError(f"小组 {group['id']} 比赛结果无效：{exc}") from exc
+
+    @staticmethod
+    def _refresh_round_robin_standings(data: dict[str, Any]) -> None:
+        """Use the group ranking rules after every distinct pairing finishes."""
+        for field in ("scheduled_time", "scheduled_table", "scheduled_referee"):
+            data.setdefault(field, "")
+        participants = data["participants"]
+        matches = data["matches"]
+        count = len(participants)
+        for match in matches:
+            match.setdefault("referee", "")
+        data.setdefault("ranking_draw_order", None)
+        expected_pairs = {(a, b) for a in range(count) for b in range(a + 1, count)}
+        actual_pairs = []
+        for match in matches:
+            a, b = match.get("a"), match.get("b")
+            if (isinstance(a, bool) or isinstance(b, bool) or
+                not isinstance(a, int) or not isinstance(b, int) or
+                not 0 <= a < count or not 0 <= b < count or a == b):
+                data["standings"] = None
+                return
+            actual_pairs.append((min(a, b), max(a, b)))
+        if (len(actual_pairs) != count * (count - 1) // 2 or
+            set(actual_pairs) != expected_pairs or
+            any(not match.get("finished") for match in matches)):
+            data["standings"] = None
+            return
+        draw_order = data["ranking_draw_order"]
+        if (not isinstance(draw_order, list) or
+            any(not isinstance(index, int) or isinstance(index, bool) for index in draw_order) or
+            sorted(draw_order) != list(range(count))):
+            draw_order = list(range(count))
+            secrets.SystemRandom().shuffle(draw_order)
+            data["ranking_draw_order"] = draw_order
+        try:
+            data["standings"] = logic.group_standings(
+                participants, matches, draw_order=draw_order
+            )
+        except ValueError as exc:
+            raise DataError(f"循环赛比赛结果无效：{exc}") from exc
 
     @staticmethod
     def _qualified_entrants(group_metadata: dict[str, Any], group_data: dict[str, Any]) -> list[dict[str, Any]] | None:
@@ -823,5 +951,7 @@ class Database:
         elif stage == "group":
             self._refresh_group_standings(data)
             self._sync_knockout_after_group_change(path, metadata, data)
+        elif stage == "round_robin":
+            self._refresh_round_robin_standings(data)
         _atomic_json(path / "data.json", data)
         return self.get_event(competition, event)

@@ -1,0 +1,471 @@
+{
+  "drawn": true,
+  "rounds": 4,
+  "slots": [
+    {
+      "kind": "player",
+      "members": [
+        "王1"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "王5"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "王2"
+      ],
+      "team": "Team 1"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张12"
+      ],
+      "team": "Team 3"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "王3"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张15"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张10"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "王4"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "bye",
+      "members": [],
+      "team": "",
+      "seed": -1
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张9"
+      ],
+      "team": "Team 2"
+    },
+    {
+      "kind": "player",
+      "members": [
+        "张6"
+      ],
+      "team": "Team 3"
+    }
+  ],
+  "matches": [
+    {
+      "id": "r1-m1",
+      "round": 0,
+      "index": 0,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王1"
+        ],
+        "team": "Team 1"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m2",
+      "round": 0,
+      "index": 1,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王5"
+        ],
+        "team": "Team 3"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m3",
+      "round": 0,
+      "index": 2,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王2"
+        ],
+        "team": "Team 1"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m4",
+      "round": 0,
+      "index": 3,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张12"
+        ],
+        "team": "Team 3"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m5",
+      "round": 0,
+      "index": 4,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王3"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m6",
+      "round": 0,
+      "index": 5,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张15"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张10"
+        ],
+        "team": "Team 2"
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m7",
+      "round": 0,
+      "index": 6,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王4"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "bye",
+        "members": [],
+        "team": "",
+        "seed": -1
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r1-m8",
+      "round": 0,
+      "index": 7,
+      "a": {
+        "kind": "player",
+        "members": [
+          "张9"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张6"
+        ],
+        "team": "Team 3"
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m1",
+      "round": 1,
+      "index": 0,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王1"
+        ],
+        "team": "Team 1"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "王5"
+        ],
+        "team": "Team 3"
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m2",
+      "round": 1,
+      "index": 1,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王2"
+        ],
+        "team": "Team 1"
+      },
+      "b": {
+        "kind": "player",
+        "members": [
+          "张12"
+        ],
+        "team": "Team 3"
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m3",
+      "round": 1,
+      "index": 2,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王3"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r2-m4",
+      "round": 1,
+      "index": 3,
+      "a": {
+        "kind": "player",
+        "members": [
+          "王4"
+        ],
+        "team": "Team 2"
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r3-m1",
+      "round": 2,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r3-m2",
+      "round": 2,
+      "index": 1,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    },
+    {
+      "id": "r4-m1",
+      "round": 3,
+      "index": 0,
+      "a": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "b": {
+        "kind": "undecided",
+        "members": [],
+        "team": ""
+      },
+      "finished": false,
+      "games": [],
+      "table": null,
+      "time": null,
+      "referee": ""
+    }
+  ],
+  "bronze_match": {
+    "id": "bronze",
+    "a": {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    "b": {
+      "kind": "undecided",
+      "members": [],
+      "team": ""
+    },
+    "finished": false,
+    "games": [],
+    "table": null,
+    "time": null,
+    "referee": ""
+  },
+  "results": null
+}

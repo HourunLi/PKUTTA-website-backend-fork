@@ -1,0 +1,3291 @@
+{
+  "competition": "test",
+  "events": {
+    "test-men-single": {
+      "matches": [
+        {
+          "id": "r1-m1",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "石正凡"
+            ],
+            "team": "Team 22"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r1-m2",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "孟修然"
+            ],
+            "team": "Team 22"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "于家森"
+            ],
+            "team": "Team 22"
+          },
+          "winner": "孟修然",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              14,
+              12
+            ]
+          ]
+        },
+        {
+          "id": "r1-m3",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "龚远哲"
+            ],
+            "team": "Team 7"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "朱修衡"
+            ],
+            "team": "Team 26"
+          },
+          "winner": "龚远哲",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m4",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "朱明宏"
+            ],
+            "team": "Team 1"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "谭凡"
+            ],
+            "team": "Team 23"
+          },
+          "winner": "朱明宏",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r1-m5",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "邵梓恒"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "郝毅"
+            ],
+            "team": "Team 9"
+          },
+          "winner": "邵梓恒",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m6",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "许秉昕"
+            ],
+            "team": "Team 10"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "蔡航"
+            ],
+            "team": "Team 35"
+          },
+          "winner": "许秉昕",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r1-m7",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "徐涛"
+            ],
+            "team": "Team 5"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "肖瑞言"
+            ],
+            "team": "Team 28"
+          },
+          "winner": "徐涛",
+          "games": [
+            [
+              12,
+              10
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              12,
+              10
+            ]
+          ]
+        },
+        {
+          "id": "r1-m8",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "谢志晨"
+            ],
+            "team": "Team 13"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "孔宏"
+            ],
+            "team": "Team 27"
+          },
+          "winner": "谢志晨",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r1-m9",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "徐卓帆"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "覃振朗"
+            ],
+            "team": "Team 3"
+          },
+          "winner": "覃振朗",
+          "games": [
+            [
+              9,
+              11
+            ],
+            [
+              6,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m10",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "陈家平"
+            ],
+            "team": "Team 1"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黄正维"
+            ],
+            "team": "Team 7"
+          },
+          "winner": "黄正维",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m11",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "熊亦宁"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          },
+          "winner": "熊亦宁",
+          "games": [
+            [
+              13,
+              11
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m12",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "田庭森"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "韩书凡"
+            ],
+            "team": "Team 10"
+          },
+          "winner": "田庭森",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r1-m13",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "余航"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "蔡昊成"
+            ],
+            "team": "Team 15"
+          },
+          "winner": "余航",
+          "games": [
+            [
+              15,
+              13
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m14",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "蒋正然"
+            ],
+            "team": "Team 14"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "胡庭辰"
+            ],
+            "team": "Team 10"
+          },
+          "winner": "蒋正然",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r1-m15",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "李秉衡"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "黎远晨",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m16",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "袁俊杰"
+            ],
+            "team": "Team 6"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "戴秉诚"
+            ],
+            "team": "Team 16"
+          },
+          "winner": "袁俊杰",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m17",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "宋峰"
+            ],
+            "team": "Team 13"
+          },
+          "winner": "夏清松",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              12,
+              10
+            ]
+          ]
+        },
+        {
+          "id": "r1-m18",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "江书昕"
+            ],
+            "team": "Team 21"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "侯怀晨"
+            ],
+            "team": "Team 34"
+          },
+          "winner": "江书昕",
+          "games": [
+            [
+              15,
+              13
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r1-m19",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "金致楷"
+            ],
+            "team": "Team 3"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "肖承昕"
+            ],
+            "team": "Team 18"
+          },
+          "winner": "金致楷",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m20",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "钟彦达"
+            ],
+            "team": "Team 8"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "于嘉熙"
+            ],
+            "team": "Team 2"
+          },
+          "winner": "钟彦达",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m21",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "闫宇涛"
+            ],
+            "team": "Team 20"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "杨弘翔"
+            ],
+            "team": "Team 29"
+          },
+          "winner": "杨弘翔",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m22",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "邱文尧"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "史昊尧"
+            ],
+            "team": "Team 15"
+          },
+          "winner": "邱文尧",
+          "games": [
+            [
+              13,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m23",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "许远航"
+            ],
+            "team": "Team 19"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "叶启平"
+            ],
+            "team": "Team 14"
+          },
+          "winner": "许远航",
+          "games": [
+            [
+              13,
+              11
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m24",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "贺清凡"
+            ],
+            "team": "Team 6"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "郭亦凡"
+            ],
+            "team": "Team 16"
+          },
+          "winner": "贺清凡",
+          "games": [
+            [
+              15,
+              13
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m25",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "刘凡"
+            ],
+            "team": "Team 20"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "陈云博"
+            ],
+            "team": "Team 12"
+          },
+          "winner": "刘凡",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m26",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "吴远宏"
+            ],
+            "team": "Team 35"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "潘彦晨"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "潘彦晨",
+          "games": [
+            [
+              15,
+              13
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m27",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "杜予言"
+            ],
+            "team": "Team 6"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "魏远宁"
+            ],
+            "team": "Team 18"
+          },
+          "winner": "杜予言",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r1-m28",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "刘阳"
+            ],
+            "team": "Team 4"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "林怀然"
+            ],
+            "team": "Team 24"
+          },
+          "winner": "刘阳",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r1-m29",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "秦言"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "陈文翔"
+            ],
+            "team": "Team 2"
+          },
+          "winner": "秦言",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m30",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "沈启睿"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "魏明博"
+            ],
+            "team": "Team 24"
+          },
+          "winner": "沈启睿",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m31",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "杨正熙"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "陶志哲"
+            ],
+            "team": "Team 26"
+          },
+          "winner": "杨正熙",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m32",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "金霖"
+            ],
+            "team": "Team 20"
+          },
+          "winner": "梁予峰",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r2-m1",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "孟修然"
+            ],
+            "team": "Team 22"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r2-m2",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "龚远哲"
+            ],
+            "team": "Team 7"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "朱明宏"
+            ],
+            "team": "Team 1"
+          },
+          "winner": "龚远哲",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r2-m3",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "邵梓恒"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "许秉昕"
+            ],
+            "team": "Team 10"
+          },
+          "winner": "邵梓恒",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r2-m4",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "徐涛"
+            ],
+            "team": "Team 5"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "谢志晨"
+            ],
+            "team": "Team 13"
+          },
+          "winner": "谢志晨",
+          "games": [
+            [
+              8,
+              11
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m5",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "覃振朗"
+            ],
+            "team": "Team 3"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黄正维"
+            ],
+            "team": "Team 7"
+          },
+          "winner": "黄正维",
+          "games": [
+            [
+              13,
+              11
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m6",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "熊亦宁"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "田庭森"
+            ],
+            "team": "Team 16"
+          },
+          "winner": "田庭森",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              6,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m7",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "余航"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "蒋正然"
+            ],
+            "team": "Team 14"
+          },
+          "winner": "蒋正然",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m8",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "袁俊杰"
+            ],
+            "team": "Team 6"
+          },
+          "winner": "黎远晨",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r2-m9",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "江书昕"
+            ],
+            "team": "Team 21"
+          },
+          "winner": "夏清松",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r2-m10",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "金致楷"
+            ],
+            "team": "Team 3"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "钟彦达"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "钟彦达",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m11",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "杨弘翔"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "邱文尧"
+            ],
+            "team": "Team 9"
+          },
+          "winner": "邱文尧",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m12",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "许远航"
+            ],
+            "team": "Team 19"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "贺清凡"
+            ],
+            "team": "Team 6"
+          },
+          "winner": "贺清凡",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m13",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "刘凡"
+            ],
+            "team": "Team 20"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "潘彦晨"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "潘彦晨",
+          "games": [
+            [
+              10,
+              12
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m14",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "杜予言"
+            ],
+            "team": "Team 6"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "刘阳"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "刘阳",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r2-m15",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "秦言"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "沈启睿"
+            ],
+            "team": "Team 29"
+          },
+          "winner": "秦言",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              14,
+              12
+            ]
+          ]
+        },
+        {
+          "id": "r2-m16",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "杨正熙"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "梁予峰",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r3-m1",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "龚远哲"
+            ],
+            "team": "Team 7"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              9,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r3-m2",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "邵梓恒"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "谢志晨"
+            ],
+            "team": "Team 13"
+          },
+          "winner": "邵梓恒",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r3-m3",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "黄正维"
+            ],
+            "team": "Team 7"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "田庭森"
+            ],
+            "team": "Team 16"
+          },
+          "winner": "田庭森",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r3-m4",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "蒋正然"
+            ],
+            "team": "Team 14"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "winner": "黎远晨",
+          "games": [
+            [
+              8,
+              11
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r3-m5",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "钟彦达"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "夏清松",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r3-m6",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "邱文尧"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "贺清凡"
+            ],
+            "team": "Team 6"
+          },
+          "winner": "邱文尧",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r3-m7",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "潘彦晨"
+            ],
+            "team": "Team 4"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "刘阳"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "潘彦晨",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r3-m8",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "秦言"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "梁予峰",
+          "games": [
+            [
+              9,
+              11
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r4-m1",
+          "round": 4,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "邵梓恒"
+            ],
+            "team": "Team 23"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r4-m2",
+          "round": 4,
+          "a": {
+            "kind": "player",
+            "members": [
+              "田庭森"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "winner": "黎远晨",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r4-m3",
+          "round": 4,
+          "a": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "邱文尧"
+            ],
+            "team": "Team 9"
+          },
+          "winner": "夏清松",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r4-m4",
+          "round": 4,
+          "a": {
+            "kind": "player",
+            "members": [
+              "潘彦晨"
+            ],
+            "team": "Team 4"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "梁予峰",
+          "games": [
+            [
+              8,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r5-m1",
+          "round": 5,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r5-m2",
+          "round": 5,
+          "a": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "梁予峰",
+          "games": [
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              9
+            ],
+            [
+              8,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "bronze",
+          "round": "bronze",
+          "a": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          },
+          "winner": "夏清松",
+          "games": [
+            [
+              9,
+              11
+            ],
+            [
+              12,
+              10
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r6-m1",
+          "round": 6,
+          "a": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          },
+          "winner": "傅文霖",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          }
+        },
+        {
+          "rank": 2,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "梁予峰"
+            ],
+            "team": "Team 8"
+          }
+        },
+        {
+          "rank": 3,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "夏清松"
+            ],
+            "team": "Team 17"
+          }
+        },
+        {
+          "rank": 4,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "黎远晨"
+            ],
+            "team": "Team 30"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "潘彦晨"
+            ],
+            "team": "Team 4"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "田庭森"
+            ],
+            "team": "Team 16"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "邱文尧"
+            ],
+            "team": "Team 9"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "邵梓恒"
+            ],
+            "team": "Team 23"
+          }
+        }
+      ]
+    },
+    "test-women-single": {
+      "matches": [
+        {
+          "id": "r1-m1",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "罗若月"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "闫宁"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "罗若月",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m2",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "何云悦"
+            ],
+            "team": "Team 25"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "唐语桐"
+            ],
+            "team": "Team 4"
+          },
+          "winner": "何云悦",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m3",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "黄柔"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "史佳姗"
+            ],
+            "team": "Team 33"
+          },
+          "winner": "黄柔",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r1-m4",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "闫若倩"
+            ],
+            "team": "Team 35"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "白书瑶"
+            ],
+            "team": "Team 3"
+          },
+          "winner": "闫若倩",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m5",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "孔诗柔"
+            ],
+            "team": "Team 1"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "薛知仪"
+            ],
+            "team": "Team 3"
+          },
+          "winner": "孔诗柔",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r1-m6",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "钱宁"
+            ],
+            "team": "Team 29"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "罗悦琪"
+            ],
+            "team": "Team 13"
+          },
+          "winner": "钱宁",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              8
+            ]
+          ]
+        },
+        {
+          "id": "r1-m7",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "陆熙"
+            ],
+            "team": "Team 12"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "宋安馨"
+            ],
+            "team": "Team 29"
+          },
+          "winner": "陆熙",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m8",
+          "round": 1,
+          "a": {
+            "kind": "player",
+            "members": [
+              "廖思桐"
+            ],
+            "team": "Team 21"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "向书荷"
+            ],
+            "team": "Team 22"
+          },
+          "winner": "廖思桐",
+          "games": [
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              15,
+              13
+            ]
+          ]
+        },
+        {
+          "id": "r2-m1",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "罗若月"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "何云悦"
+            ],
+            "team": "Team 25"
+          },
+          "winner": "罗若月",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              8
+            ],
+            [
+              11,
+              7
+            ]
+          ]
+        },
+        {
+          "id": "r2-m2",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "黄柔"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "闫若倩"
+            ],
+            "team": "Team 35"
+          },
+          "winner": "黄柔",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r2-m3",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "孔诗柔"
+            ],
+            "team": "Team 1"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "钱宁"
+            ],
+            "team": "Team 29"
+          },
+          "winner": "孔诗柔",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r2-m4",
+          "round": 2,
+          "a": {
+            "kind": "player",
+            "members": [
+              "陆熙"
+            ],
+            "team": "Team 12"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "廖思桐"
+            ],
+            "team": "Team 21"
+          },
+          "winner": "廖思桐",
+          "games": [
+            [
+              11,
+              13
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              12,
+              14
+            ]
+          ]
+        },
+        {
+          "id": "r3-m1",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "罗若月"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "黄柔"
+            ],
+            "team": "Team 9"
+          },
+          "winner": "罗若月",
+          "games": [
+            [
+              13,
+              11
+            ],
+            [
+              12,
+              14
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r3-m2",
+          "round": 3,
+          "a": {
+            "kind": "player",
+            "members": [
+              "孔诗柔"
+            ],
+            "team": "Team 1"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "廖思桐"
+            ],
+            "team": "Team 21"
+          },
+          "winner": "廖思桐",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "bronze",
+          "round": "bronze",
+          "a": {
+            "kind": "player",
+            "members": [
+              "黄柔"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "孔诗柔"
+            ],
+            "team": "Team 1"
+          },
+          "winner": "孔诗柔",
+          "games": [
+            [
+              12,
+              14
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r4-m1",
+          "round": 4,
+          "a": {
+            "kind": "player",
+            "members": [
+              "罗若月"
+            ],
+            "team": "Team 16"
+          },
+          "b": {
+            "kind": "player",
+            "members": [
+              "廖思桐"
+            ],
+            "team": "Team 21"
+          },
+          "winner": "罗若月",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "罗若月"
+            ],
+            "team": "Team 16"
+          }
+        },
+        {
+          "rank": 2,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "廖思桐"
+            ],
+            "team": "Team 21"
+          }
+        },
+        {
+          "rank": 3,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "孔诗柔"
+            ],
+            "team": "Team 1"
+          }
+        },
+        {
+          "rank": 4,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "黄柔"
+            ],
+            "team": "Team 9"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "何云悦"
+            ],
+            "team": "Team 25"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "钱宁"
+            ],
+            "team": "Team 29"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "闫若倩"
+            ],
+            "team": "Team 35"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "player",
+            "members": [
+              "陆熙"
+            ],
+            "team": "Team 12"
+          }
+        }
+      ]
+    },
+    "test-men-double": {
+      "matches": [
+        {
+          "id": "r1-m1",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "潘彦晨",
+              "马子然"
+            ],
+            "team": "Team 4"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "夏昊轩",
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          },
+          "winner": "夏昊轩 / 周浩毅",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m2",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "肖承昕",
+              "孟云晨"
+            ],
+            "team": "Team 18"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "任航",
+              "于森"
+            ],
+            "team": "Team 30"
+          },
+          "winner": "任航 / 于森",
+          "games": [
+            [
+              12,
+              14
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r1-m3",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "朱昊涛",
+              "陈承毅"
+            ],
+            "team": "Team 11"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "顾云恒",
+              "田庭森"
+            ],
+            "team": "Team 16"
+          },
+          "winner": "朱昊涛 / 陈承毅",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m4",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "许秉昕",
+              "胡庭辰"
+            ],
+            "team": "Team 10"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "郭瑞恒",
+              "余嘉然"
+            ],
+            "team": "Team 25"
+          },
+          "winner": "许秉昕 / 胡庭辰",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m5",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "邱文尧",
+              "程昊杰"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "魏明博",
+              "傅文霖"
+            ],
+            "team": "Team 24"
+          },
+          "winner": "邱文尧 / 程昊杰",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m6",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "徐卓帆",
+              "侯怀晨"
+            ],
+            "team": "Team 34"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "崔景松",
+              "熊亦宁"
+            ],
+            "team": "Team 17"
+          },
+          "winner": "徐卓帆 / 侯怀晨",
+          "games": [
+            [
+              11,
+              8
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              15,
+              13
+            ]
+          ]
+        },
+        {
+          "id": "r1-m7",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "向家诚",
+              "闫明恒"
+            ],
+            "team": "Team 5"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "于嘉熙",
+              "段世平"
+            ],
+            "team": "Team 2"
+          },
+          "winner": "向家诚 / 闫明恒",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r1-m8",
+          "round": 1,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "陶志哲",
+              "顾景达"
+            ],
+            "team": "Team 26"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "石正凡",
+              "于家森"
+            ],
+            "team": "Team 22"
+          },
+          "winner": "陶志哲 / 顾景达",
+          "games": [
+            [
+              11,
+              9
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r2-m1",
+          "round": 2,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "夏昊轩",
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "任航",
+              "于森"
+            ],
+            "team": "Team 30"
+          },
+          "winner": "夏昊轩 / 周浩毅",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ]
+          ]
+        },
+        {
+          "id": "r2-m2",
+          "round": 2,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "朱昊涛",
+              "陈承毅"
+            ],
+            "team": "Team 11"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "许秉昕",
+              "胡庭辰"
+            ],
+            "team": "Team 10"
+          },
+          "winner": "朱昊涛 / 陈承毅",
+          "games": [
+            [
+              14,
+              12
+            ],
+            [
+              11,
+              6
+            ]
+          ]
+        },
+        {
+          "id": "r2-m3",
+          "round": 2,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "邱文尧",
+              "程昊杰"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "徐卓帆",
+              "侯怀晨"
+            ],
+            "team": "Team 34"
+          },
+          "winner": "邱文尧 / 程昊杰",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              7,
+              11
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r2-m4",
+          "round": 2,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "向家诚",
+              "闫明恒"
+            ],
+            "team": "Team 5"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "陶志哲",
+              "顾景达"
+            ],
+            "team": "Team 26"
+          },
+          "winner": "陶志哲 / 顾景达",
+          "games": [
+            [
+              11,
+              7
+            ],
+            [
+              6,
+              11
+            ],
+            [
+              9,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r3-m1",
+          "round": 3,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "夏昊轩",
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "朱昊涛",
+              "陈承毅"
+            ],
+            "team": "Team 11"
+          },
+          "winner": "朱昊涛 / 陈承毅",
+          "games": [
+            [
+              5,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              7,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "r3-m2",
+          "round": 3,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "邱文尧",
+              "程昊杰"
+            ],
+            "team": "Team 9"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "陶志哲",
+              "顾景达"
+            ],
+            "team": "Team 26"
+          },
+          "winner": "陶志哲 / 顾景达",
+          "games": [
+            [
+              11,
+              6
+            ],
+            [
+              8,
+              11
+            ],
+            [
+              5,
+              11
+            ]
+          ]
+        },
+        {
+          "id": "bronze",
+          "round": "bronze",
+          "a": {
+            "kind": "pair",
+            "members": [
+              "夏昊轩",
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "邱文尧",
+              "程昊杰"
+            ],
+            "team": "Team 9"
+          },
+          "winner": "夏昊轩 / 周浩毅",
+          "games": [
+            [
+              8,
+              11
+            ],
+            [
+              11,
+              6
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        },
+        {
+          "id": "r4-m1",
+          "round": 4,
+          "a": {
+            "kind": "pair",
+            "members": [
+              "朱昊涛",
+              "陈承毅"
+            ],
+            "team": "Team 11"
+          },
+          "b": {
+            "kind": "pair",
+            "members": [
+              "陶志哲",
+              "顾景达"
+            ],
+            "team": "Team 26"
+          },
+          "winner": "朱昊涛 / 陈承毅",
+          "games": [
+            [
+              11,
+              5
+            ],
+            [
+              9,
+              11
+            ],
+            [
+              11,
+              9
+            ]
+          ]
+        }
+      ],
+      "results": [
+        {
+          "rank": 1,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "朱昊涛",
+              "陈承毅"
+            ],
+            "team": "Team 11"
+          }
+        },
+        {
+          "rank": 2,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "陶志哲",
+              "顾景达"
+            ],
+            "team": "Team 26"
+          }
+        },
+        {
+          "rank": 3,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "夏昊轩",
+              "周浩毅"
+            ],
+            "team": "Team 23"
+          }
+        },
+        {
+          "rank": 4,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "邱文尧",
+              "程昊杰"
+            ],
+            "team": "Team 9"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "任航",
+              "于森"
+            ],
+            "team": "Team 30"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "向家诚",
+              "闫明恒"
+            ],
+            "team": "Team 5"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "徐卓帆",
+              "侯怀晨"
+            ],
+            "team": "Team 34"
+          }
+        },
+        {
+          "rank": 5,
+          "participant": {
+            "kind": "pair",
+            "members": [
+              "许秉昕",
+              "胡庭辰"
+            ],
+            "team": "Team 10"
+          }
+        }
+      ]
+    }
+  }
+}

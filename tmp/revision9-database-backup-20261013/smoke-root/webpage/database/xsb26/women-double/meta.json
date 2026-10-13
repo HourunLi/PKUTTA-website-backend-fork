@@ -1,0 +1,10 @@
+{
+  "slug": "women-double",
+  "discipline": "women",
+  "format": "double",
+  "name": "女子双打",
+  "schedule": "round-robin",
+  "stages": [
+    "round_robin"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "slug": "test",
+  "name": "测试",
+  "start_date": "2026-10-17",
+  "end_date": "2026-10-18",
+  "venue": "体育馆",
+  "events": [
+    "test-men-single",
+    "test-men-double",
+    "test-women-single",
+    "test-women-double"
+  ]
+}

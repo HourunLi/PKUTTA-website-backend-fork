@@ -1,0 +1,11 @@
+{
+  "slug": "competition-20261017-89087d",
+  "name": "Test",
+  "start_date": "2026-10-17",
+  "end_date": "2026-10-18",
+  "venue": "Test",
+  "events": [
+    "competition-20261017-89087d-men-single",
+    "competition-20261017-89087d-women-double"
+  ]
+}

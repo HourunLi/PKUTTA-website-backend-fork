@@ -29,8 +29,9 @@
 | `POST` | `/api/competitions/{赛事}/events` | `{discipline,format,schedule,csv,group_spec?,knockout_rounds?}` |
 | `DELETE` | `/api/competitions/{赛事}/events/{项目}` | 无 |
 | `POST` | `/api/competitions/{赛事}/events/{项目}/stages/{阶段}/draw` | `{}` |
-| `PATCH` | `/api/competitions/{赛事}/events/{项目}/groups/{小组ID}` | `{scheduled_time?,scheduled_table?}`，至少一个文字字段；小组 ID 为正整数 |
-| `PATCH` | `/api/competitions/{赛事}/events/{项目}/stages/{阶段}/matches/{场次ID}` | `{finished?,table?,time?}` |
+| `PATCH` | `/api/competitions/{赛事}/events/{项目}/groups/{小组ID}` | `{scheduled_time?,scheduled_table?,scheduled_referee?}`，至少一个文字字段；小组 ID 为正整数 |
+| `PATCH` | `/api/competitions/{赛事}/events/{项目}/round-robin/schedule` | `{scheduled_time?,scheduled_table?,scheduled_referee?}`，更新独立循环赛统一安排及对应场次字段 |
+| `PATCH` | `/api/competitions/{赛事}/events/{项目}/stages/{阶段}/matches/{场次ID}` | `{finished?,table?,time?,referee?}` |
 | `POST` | `/api/competitions/{赛事}/events/{项目}/stages/{阶段}/matches/{场次ID}/games` | `{a:非负整数,b:非负整数}`，A/B 不能同分 |
 | `PATCH` | `.../games/{从零开始的局下标}` | `{a,b}` |
 | `DELETE` | `.../games/{从零开始的局下标}` | 无 |
@@ -38,6 +39,6 @@
 
 项目创建后属性不可修改；删除项目再创建才能改变赛程。比赛与项目删除由前端提供确认对话框，后端只删除已验证的数据库直属目录。
 
-小组预定时间和预定桌号初始为空，可在抽签前或之后设置。每次提交的小组字段会覆盖本组所有场次对应的 `time` 或 `table` 字段；空字符串用于清空。直接修改单场时间和桌号不会反向改变小组计划，重新抽签会保留小组计划并用于新场次。所有数据库 API 的读取和写入都持有同一个锁，避免请求之间读到部分更新。
+小组和独立循环赛的统一预定时间、桌号及裁判初始为空。保存统一安排会覆盖本组或循环赛所有场次的对应字段；空字符串用于清空。直接修改单场安排不会反向改变统一计划。所有数据库 API 的读取和写入都持有同一个锁，避免请求之间读到部分更新。
 
 Submit 路由独立于数据库锁，调用 `publish.py` 的单任务执行器。Git 暂存阶段才短暂持有数据库锁；提交和网络推送由后台线程执行，不阻塞赛事操作。Git 输出显示在后台终端，界面根据轮询状态恢复按钮并在失败时警告。

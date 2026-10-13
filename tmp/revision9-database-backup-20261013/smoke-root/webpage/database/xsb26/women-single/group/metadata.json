@@ -1,0 +1,315 @@
+{
+  "type": "group",
+  "entrants": [
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "戈梓淇"
+        ],
+        "team": "历史学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "卢星洁"
+        ],
+        "team": "城市与环境学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "王镱霏"
+        ],
+        "team": "城市与环境学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张馨睿"
+        ],
+        "team": "数学科学学院"
+      },
+      "seed": 2
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "范可枫"
+        ],
+        "team": "中国语言文学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "郭恬圆"
+        ],
+        "team": "光华管理学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "向怡颖"
+        ],
+        "team": "信息管理系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "康宝宸"
+        ],
+        "team": "外国语学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "朱珂瑶"
+        ],
+        "team": "外国语学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张诗悦"
+        ],
+        "team": "外国语学院"
+      },
+      "seed": 1
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "孙澜媛"
+        ],
+        "team": "教育学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "姜懿真"
+        ],
+        "team": "前沿交叉学科研究院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "商靓"
+        ],
+        "team": "哲学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "徐士茹"
+        ],
+        "team": "哲学系"
+      },
+      "seed": 4
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "闫孟涵"
+        ],
+        "team": "建筑与景观设计学院"
+      },
+      "seed": 5
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "Xiong Edwina Hui Yun"
+        ],
+        "team": "燕京学堂"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "尹梓涵"
+        ],
+        "team": "社会学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "高艺耘"
+        ],
+        "team": "社会学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "黄靖雯"
+        ],
+        "team": "社会学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "索鑫宇"
+        ],
+        "team": "社会学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "陈文婷"
+        ],
+        "team": "社会学系"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "王之韵"
+        ],
+        "team": "经济学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "彭妍歆"
+        ],
+        "team": "考古文博学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "焦国曦"
+        ],
+        "team": "考古文博学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "朱悦"
+        ],
+        "team": "软件与微电子学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "郭珈汛"
+        ],
+        "team": "软件与微电子学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "周子瑄"
+        ],
+        "team": "集成电路学院"
+      },
+      "seed": 3
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "邱晨璇"
+        ],
+        "team": "医学部"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "钟千然"
+        ],
+        "team": "医学部"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "王佳睿"
+        ],
+        "team": "地球与空间科学学院"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "player",
+        "members": [
+          "张煜晗"
+        ],
+        "team": "地球与空间科学学院"
+      },
+      "seed": 0
+    }
+  ]
+}

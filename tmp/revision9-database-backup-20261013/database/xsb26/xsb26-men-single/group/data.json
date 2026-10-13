@@ -1,0 +1,3553 @@
+{
+  "drawn": false,
+  "groups": [
+    {
+      "id": 1,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "5",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g1-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g1-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "7",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g2-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g2-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "8",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g3-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g3-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "9",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g4-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g4-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "10",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g5-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g5-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:30",
+      "scheduled_table": "5",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g6-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g6-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 9:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:30",
+      "scheduled_table": "7",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g7-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g7-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 9:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:30",
+      "scheduled_table": "8",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g8-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g8-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 9:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:30",
+      "scheduled_table": "9",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g9-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g9-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 9:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:30",
+      "scheduled_table": "10",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g10-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        },
+        {
+          "id": "g10-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 9:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "5",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g11-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g11-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "7",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g12-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g12-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "8",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g13-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g13-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "9",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g14-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g14-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "10",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g15-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g15-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:30",
+      "scheduled_table": "5",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g16-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g16-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "5",
+          "time": "10/17 12:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:30",
+      "scheduled_table": "7",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g17-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g17-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "7",
+          "time": "10/17 12:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:30",
+      "scheduled_table": "8",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g18-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g18-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "8",
+          "time": "10/17 12:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:30",
+      "scheduled_table": "9",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g19-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g19-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "9",
+          "time": "10/17 12:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "size": 4,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:30",
+      "scheduled_table": "10",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g20-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-4",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-5",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        },
+        {
+          "id": "g20-m-6",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "10",
+          "time": "10/17 12:30",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g21-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g21-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 8:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g22-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        },
+        {
+          "id": "g22-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 8:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g23-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g23-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 9:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 9:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g24-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        },
+        {
+          "id": "g24-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 9:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 10:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g25-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g25-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 10:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 10:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g26-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        },
+        {
+          "id": "g26-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 10:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g27-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g27-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 11:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g28-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        },
+        {
+          "id": "g28-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 11:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g29-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g29-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 12:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 12:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g30-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        },
+        {
+          "id": "g30-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 12:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 13:00",
+      "scheduled_table": "1/2",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g31-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g31-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "1/2",
+          "time": "10/17 13:00",
+          "referee": ""
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "size": 5,
+      "qualifiers": 2,
+      "scheduled_time": "10/17 13:00",
+      "scheduled_table": "3/4",
+      "scheduled_referee": "",
+      "standings": null,
+      "ranking_draw_order": null,
+      "participants": [
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        },
+        {
+          "kind": "undecided",
+          "members": [],
+          "team": ""
+        }
+      ],
+      "matches": [
+        {
+          "id": "g32-m-1",
+          "a": 0,
+          "b": 1,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-2",
+          "a": 0,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-3",
+          "a": 0,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-4",
+          "a": 0,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-5",
+          "a": 1,
+          "b": 2,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-6",
+          "a": 1,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-7",
+          "a": 1,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-8",
+          "a": 2,
+          "b": 3,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-9",
+          "a": 2,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        },
+        {
+          "id": "g32-m-10",
+          "a": 3,
+          "b": 4,
+          "finished": false,
+          "games": [],
+          "table": "3/4",
+          "time": "10/17 13:00",
+          "referee": ""
+        }
+      ]
+    }
+  ]
+}

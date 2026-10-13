@@ -1,0 +1,13 @@
+{
+  "slug": "xsb26",
+  "name": "北京大学 2026 年新生杯乒乓球赛",
+  "start_date": "2026-10-17",
+  "end_date": "2026-10-18",
+  "venue": "邱德拔体育馆 140 乒乓球厅",
+  "events": [
+    "men-single",
+    "men-double",
+    "women-single",
+    "women-double"
+  ]
+}

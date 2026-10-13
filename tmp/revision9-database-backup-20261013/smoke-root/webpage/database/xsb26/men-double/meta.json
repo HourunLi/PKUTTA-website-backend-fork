@@ -1,0 +1,11 @@
+{
+  "slug": "men-double",
+  "discipline": "men",
+  "format": "double",
+  "name": "男子双打",
+  "schedule": "group-knockout",
+  "stages": [
+    "group",
+    "knockout"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "count": 4,
+  "participants": [
+    {
+      "kind": "pair",
+      "members": [
+        "卢星洁",
+        "王镱霏"
+      ],
+      "team": "城市与环境学院"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "朱珂瑶",
+        "康宝宸"
+      ],
+      "team": "外国语学院"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "朱悦",
+        "郭珈汛"
+      ],
+      "team": "软件与微电子学院"
+    },
+    {
+      "kind": "pair",
+      "members": [
+        "周子瑄",
+        "华圣露"
+      ],
+      "team": "集成电路学院"
+    }
+  ],
+  "matches": [
+    {
+      "id": "m-1",
+      "a": 0,
+      "b": 1,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    },
+    {
+      "id": "m-2",
+      "a": 0,
+      "b": 2,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    },
+    {
+      "id": "m-3",
+      "a": 0,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    },
+    {
+      "id": "m-4",
+      "a": 1,
+      "b": 2,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    },
+    {
+      "id": "m-5",
+      "a": 1,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    },
+    {
+      "id": "m-6",
+      "a": 2,
+      "b": 3,
+      "finished": false,
+      "games": [],
+      "table": "7",
+      "time": "10/17 18:00",
+      "referee": ""
+    }
+  ],
+  "standings": null,
+  "ranking_draw_order": null
+}

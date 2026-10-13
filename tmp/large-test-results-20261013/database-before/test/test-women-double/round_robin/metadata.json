@@ -1,0 +1,49 @@
+{
+  "type": "round_robin",
+  "entrants": [
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "宋安馨",
+          "钱宁"
+        ],
+        "team": "Team 29"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "闫宁",
+          "唐语桐"
+        ],
+        "team": "Team 4"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "薛知仪",
+          "薛菲"
+        ],
+        "team": "Team 3"
+      },
+      "seed": 0
+    },
+    {
+      "participant": {
+        "kind": "pair",
+        "members": [
+          "余艺涵",
+          "廖晨娜"
+        ],
+        "team": "Team 11"
+      },
+      "seed": 0
+    }
+  ]
+}
