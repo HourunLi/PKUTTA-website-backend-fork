@@ -815,7 +815,12 @@ class Database:
             for rank_index, index in enumerate(ranks[:group["qualifiers"]]):
                 participant = group["participants"][index]
                 virtual_seed = (seed_count - group_index if group_index < seed_count else 0) if rank_index == 0 else -1
-                selected.append({"participant": participant, "seed": virtual_seed})
+                selected.append({
+                    "participant": participant,
+                    "seed": virtual_seed,
+                    "group": group["id"],
+                    "group_rank": rank_index,
+                })
         return selected
 
     def _sync_knockout_after_group_change(self, group_path: Path, group_metadata: dict[str, Any], group_data: dict[str, Any]) -> None:

@@ -259,11 +259,12 @@ def group_standings(
 ) -> dict[str, Any] | None:
     """Rank complete groups by points, mutual results, ratios, then a draw.
 
-    A match win earns one point; a loss or double walkover earns none. For
-    every original set tied on overall points, the mutual points, game ratio,
-    and point ratio use only matches within that original set. Each metric
-    refines the remaining ties without restarting with a smaller set. Trace
-    fields appear only for players who reached that comparison.
+    A match win earns one point; a loss or double walkover earns none. A set
+    tied on overall points compares mutual points, game ratio, and point ratio
+    using only matches within that set. As soon as one metric separates
+    anyone, every still-tied subset restarts from mutual points with only its
+    own matches (ITTF 3.7.5.3). Trace fields appear only for players who
+    reached that comparison and hold the innermost values computed for them.
 
     ``draw_order`` is a persisted permutation of all participant indices. If
     absent, a shuffled permutation is generated with ``rng_seed``. Only final
@@ -355,38 +356,35 @@ def group_standings(
             buckets.setdefault(values[index], []).append(index)
         return [buckets[value] for value in sorted(buckets, reverse=True)]
 
+    def resolve(members: list[int]) -> list[int]:
+        # ITTF 3.7.5.3: once a criterion separates anyone, each still-tied
+        # subset restarts from mutual points using only its own matches.
+        if len(members) == 1:
+            return members
+        totals = mutual_totals(members)
+        for field, won_position, lost_position in (
+            ("tied_points", 0, None), ("game_ratio", 1, 2), ("point_ratio", 3, 4)
+        ):
+            values: dict[int, Any] = {}
+            for index in members:
+                if lost_position is None:
+                    rows[index][field] = values[index] = totals[index][0]
+                    continue
+                won, lost = totals[index][won_position], totals[index][lost_position]
+                rows[index][field] = {"won": won, "lost": lost}
+                values[index] = ratio_key(won, lost)
+            parts = partition(members, values)
+            if len(parts) > 1:
+                return [index for part in parts for index in resolve(part)]
+        tied = sorted(members, key=draw_positions.__getitem__)
+        for rank, index in enumerate(tied, 1):
+            rows[index]["draw_rank"] = rank
+        return tied
+
     global_groups = partition(indices, {index: rows[index]["points"] for index in indices})
     order: list[int] = []
     for members in global_groups:
-        if len(members) == 1:
-            order.extend(members)
-            continue
-        totals = mutual_totals(members)
-        for index in members:
-            rows[index]["tied_points"] = totals[index][0]
-        groups = partition(members, {index: totals[index][0] for index in members})
-        for field, won_position, lost_position in (("game_ratio", 1, 2), ("point_ratio", 3, 4)):
-            refined: list[list[int]] = []
-            for tied in groups:
-                if len(tied) == 1:
-                    refined.append(tied)
-                    continue
-                for index in tied:
-                    rows[index][field] = {
-                        "won": totals[index][won_position],
-                        "lost": totals[index][lost_position],
-                    }
-                refined.extend(partition(tied, {
-                    index: ratio_key(totals[index][won_position], totals[index][lost_position])
-                    for index in tied
-                }))
-            groups = refined
-        for tied in groups:
-            if len(tied) > 1:
-                tied.sort(key=draw_positions.__getitem__)
-                for rank, index in enumerate(tied, 1):
-                    rows[index]["draw_rank"] = rank
-            order.extend(tied)
+        order.extend(resolve(members))
     for rank, index in enumerate(order, 1):
         rows[index]["rank"] = rank
     return {"order": order, "rows": [rows[index] for index in order]}
@@ -401,8 +399,9 @@ def draw_groups(
     """Place the highest nonzero seeds in distinct groups, then fill randomly.
 
     Only the first seed for each group gets priority. Any additional seeds join
-    the unassigned entrants in the random draw. Equal seed levels are ordered
-    randomly; ``rng_seed`` permits reproducible tests.
+    the unassigned entrants in a fresh uniform shuffle over the free places.
+    Equal seed levels are ordered randomly; ``rng_seed`` permits reproducible
+    tests.
     """
     participants = _competitors(entrants)
     seeds = _seed_levels(entrants)
@@ -456,6 +455,9 @@ def draw_groups(
     for group, index in zip(groups, priority_indices):
         group["participants"].append(participants[index])
     remaining_indices = [index for index in randomized_indices if index not in priority_set]
+    # Reshuffle: when equal seeds straddle the priority cut, the leftover ones
+    # sit late in ``randomized_indices`` and would otherwise favor later groups.
+    rng.shuffle(remaining_indices)
     next_remaining = 0
     for group in groups:
         needed = group["size"] - len(group["participants"])
@@ -675,6 +677,27 @@ def knockout_results(stage: Mapping[str, Any]) -> list[dict[str, Any]] | None:
     return refresh_knockout_bracket(stage)["results"]
 
 
+def _separated(
+    entrant_index: int,
+    slot: int,
+    slot_indices: Sequence[int | None],
+    groups: Sequence[Any],
+    group_ranks: Sequence[int],
+    capacity: int,
+    max_level: int,
+) -> bool:
+    """Whether ``slot`` keeps an entrant out of its group-mates' regions."""
+    group = groups[entrant_index]
+    level = min(group_ranks[entrant_index].bit_length(), max_level)
+    if group is None or level <= 0:
+        return True
+    span = capacity >> level
+    return all(
+        other is None or groups[other] != group or position // span != slot // span
+        for position, other in enumerate(slot_indices)
+    )
+
+
 def draw_knockout(
     entrants: Sequence[Mapping[str, Any]], rounds: int, *, rng_seed: int | None = None
 ) -> dict[str, Any]:
@@ -683,9 +706,13 @@ def draw_knockout(
     Positive seed values rank descending, with equal values drawn randomly.
     The first two seeds use the first and last opening A slots; ranks 3-4,
     5-8, etc. each draw an A slot in a still-empty quarter/eighth/etc. Zero
-    seeds are nonseed group winners and draw remaining A slots. Everyone
-    else draws from all remaining positions, with unused positions as byes.
-    The same placement works for brackets smaller than eight positions.
+    seeds are nonseed group winners and draw remaining A slots. Byes are at
+    most one per opening match and face seeds in order, then group winners,
+    then random entrants. Everyone else draws from the remaining positions;
+    entrants with ``group`` and ``group_rank`` keep away from group-mates
+    (2nd in the other half, 3rd-4th in other quarters, and so on), relaxing
+    one level at a time only if no arrangement exists. The same placement
+    works for brackets smaller than eight positions.
     """
     if not isinstance(rounds, int) or isinstance(rounds, bool) or rounds < 1:
         raise ValueError("Knockout rounds must be a positive integer.")
@@ -727,11 +754,48 @@ def draw_knockout(
     group_winners = [index for index in randomized if seeds[index] == 0]
     for entrant_index, slot_index in zip(group_winners, first_slots):
         place(entrant_index, slot_index)
+
+    # Byes: at most one per opening match, given to seeds in order, then to
+    # group winners in their drawn order, then opposite random empty A slots.
+    bye_slots: set[int] = set()
+    bye_count = capacity - len(participants)
+    priority = [index for index in seed_indices + group_winners if index in assigned]
+    holders = [slot_indices.index(index) for index in priority[:bye_count]]
+    empty_first = [position for position in range(0, capacity, 2) if slot_indices[position] is None]
+    holders += rng.sample(empty_first, bye_count - len(holders))
+    bye_slots.update(position + 1 for position in holders)
+
+    # Remaining entrants avoid group-mates already in the bracket: the k-th
+    # qualifier of a group (0-based) avoids earlier ones within the same
+    # 1/2**ceil(log2(k + 1)) region, so 1st and 2nd sit in opposite halves.
+    groups = [entrant.get("group") for entrant in entrants]
+    group_ranks = [entrant.get("group_rank", 0) for entrant in entrants]
     remaining = [index for index in randomized if index not in assigned]
-    free_slots = [position for position, index in enumerate(slot_indices) if index is None]
-    rng.shuffle(free_slots)
-    for entrant_index, slot_index in zip(remaining, free_slots):
-        place(entrant_index, slot_index)
+    remaining.sort(key=lambda index: (groups[index] is None, group_ranks[index]))
+    open_slots = [
+        position for position, index in enumerate(slot_indices)
+        if index is None and position not in bye_slots
+    ]
+    base = slot_indices[:]
+    for relax in range(rounds):
+        for _ in range(200):
+            slot_indices[:] = base
+            free = open_slots[:]
+            for entrant_index in remaining:
+                allowed = [slot for slot in free if _separated(
+                    entrant_index, slot, slot_indices, groups, group_ranks, capacity, rounds - 1 - relax
+                )]
+                if not allowed:
+                    break
+                choice = rng.choice(allowed)
+                slot_indices[choice] = entrant_index
+                free.remove(choice)
+            else:
+                break
+        else:
+            continue
+        break
+    assigned.update(remaining)
     slots = [_bye() if index is None else participants[index] for index in slot_indices]
     stage: dict[str, Any] = {"drawn": True, "rounds": rounds, "slots": slots, "matches": []}
     return refresh_knockout_bracket(stage)
